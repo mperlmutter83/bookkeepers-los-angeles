@@ -16,13 +16,13 @@ export default function Header() {
         <Link href="/" className="flex items-center gap-2 shrink-0">
           <Image
             src="/images/logo.png"
-            alt="Bookkeeping Service Los Angeles"
+            alt="Bookkeepers Los Angeles"
             width={40}
             height={40}
             className="rounded"
           />
           <span className="font-heading font-semibold text-sm md:text-base leading-tight">
-            Bookkeeping Service<br className="hidden md:block" /> Los Angeles
+            Bookkeepers<br className="hidden md:block" /> Los Angeles
           </span>
         </Link>
         <nav className="hidden lg:flex items-center gap-6 text-sm">
