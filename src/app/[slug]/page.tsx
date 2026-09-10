@@ -27,7 +27,7 @@ export async function generateMetadata({
   const post = await resolvePost(slug);
   if (!post) return {};
   return {
-    title: post.seoTitle || `${post.title} | Bookkeeping Service Los Angeles`,
+    title: post.seoTitle || `${post.title} | Bookkeepers Los Angeles`,
     description: post.seoDescription || post.metaDescription || post.excerpt,
   };
 }
@@ -66,7 +66,7 @@ export default async function BlogPostPage({
               Need Help With Your Bookkeeping?
             </h2>
             <p className="text-white/80 mb-6">
-              Book a free consultation with Bookkeeping Service Los Angeles and get your finances
+              Book a free consultation with Bookkeepers Los Angeles and get your finances
               on track.
             </p>
             <Link

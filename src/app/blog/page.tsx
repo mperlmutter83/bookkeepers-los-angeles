@@ -4,7 +4,7 @@ import { getPosts, toRenderPost, type RenderPost } from "@/lib/api";
 import { getPublishedPosts } from "@/lib/blog-data";
 
 export const metadata: Metadata = {
-  title: "Blog | Bookkeeping Service Los Angeles",
+  title: "Blog | Bookkeepers Los Angeles",
   description:
     "Latest insights in bookkeeping for Los Angeles small businesses: taxes, real estate, e-commerce, startups, and more.",
 };

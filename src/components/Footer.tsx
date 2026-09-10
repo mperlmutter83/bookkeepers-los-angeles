@@ -5,7 +5,7 @@ export default function Footer() {
     <footer className="bg-navy text-white">
       <div className="max-w-7xl mx-auto px-4 py-10 grid gap-8 md:grid-cols-3">
         <div>
-          <p className="font-heading font-semibold text-lg mb-2">Bookkeeping Service Los Angeles</p>
+          <p className="font-heading font-semibold text-lg mb-2">Bookkeepers Los Angeles</p>
           <p className="text-white/70 text-sm leading-relaxed">
             Expert bookkeeping solutions tailored for small businesses. Precision, reliability, and peace of mind.
           </p>
@@ -33,7 +33,7 @@ export default function Footer() {
         </div>
       </div>
       <div className="border-t border-white/10 py-4 text-center text-xs text-white/50">
-        © {new Date().getFullYear()} Bookkeeping Service Los Angeles. All rights reserved.
+        © {new Date().getFullYear()} Bookkeepers Los Angeles. All rights reserved.
       </div>
     </footer>
   );

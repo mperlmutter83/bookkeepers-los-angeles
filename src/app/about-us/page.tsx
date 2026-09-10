@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "About Us | Bookkeeping Service Los Angeles",
+  title: "About Us | Bookkeepers Los Angeles",
   description:
-    "Bookkeeping Service Los Angeles is dedicated to empowering small businesses with precise and affordable bookkeeping solutions.",
+    "Bookkeepers Los Angeles is dedicated to empowering small businesses with precise and affordable bookkeeping solutions.",
 };
 
 const achievements = [
@@ -34,7 +34,7 @@ export default function AboutPage() {
             Your Trusted Partner in Financial Clarity
           </p>
           <h1 className="font-heading text-4xl md:text-6xl font-bold leading-tight mb-6">
-            Bookkeeping Service Los Angeles
+            Bookkeepers Los Angeles
           </h1>
           <p className="text-lg max-w-3xl mx-auto leading-relaxed">
             Experience unparalleled accuracy and efficiency with our expert bookkeeping solutions
@@ -49,7 +49,7 @@ export default function AboutPage() {
             Our Commitment to Excellence
           </h2>
           <p className="mb-6 leading-relaxed">
-            At Bookkeeping Service Los Angeles, we are dedicated to empowering small businesses with
+            At Bookkeepers Los Angeles, we are dedicated to empowering small businesses with
             precise and affordable bookkeeping solutions. Our mission is to simplify financial
             management, allowing entrepreneurs to focus on growth and innovation. We envision a
             future where every small business can thrive with the support of transparent and
@@ -58,7 +58,7 @@ export default function AboutPage() {
             partnerships with our clients.
           </p>
           <p className="leading-relaxed">
-            Founded on the principles of trust and efficiency, Bookkeeping Service Los Angeles has
+            Founded on the principles of trust and efficiency, Bookkeepers Los Angeles has
             been serving the local business community with dedication and expertise. Our vision is
             to revolutionize the way small businesses manage their finances, providing them with
             the tools and insights needed to succeed in a competitive market. We believe in making

@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Services | Bookkeeping Service Los Angeles",
+  title: "Services | Bookkeepers Los Angeles",
   description:
     "Expert bookkeeping solutions for small businesses in Los Angeles: financial reporting, expense tracking, payroll processing, and more.",
 };

@@ -37,7 +37,7 @@ export default function Home() {
               Efficient Financial Management for Small Businesses
             </p>
             <h1 className="font-heading text-4xl md:text-6xl font-bold leading-tight mb-6">
-              Bookkeeping Service Los Angeles
+              Bookkeepers Los Angeles
             </h1>
             <p className="text-lg mb-8 leading-relaxed">
               Streamline your finances with our expert bookkeeping solutions tailored for small
@@ -141,7 +141,7 @@ export default function Home() {
           <div>
             <h2 className="font-heading text-3xl md:text-4xl font-bold mb-6">About Our Company</h2>
             <p className="mb-8 leading-relaxed">
-              Bookkeeping Service Los Angeles is dedicated to providing top-notch bookkeeping
+              Bookkeepers Los Angeles is dedicated to providing top-notch bookkeeping
               solutions tailored to the needs of small businesses. Our mission is to offer
               cost-effective and efficient financial management services that empower business
               owners to focus on growth and success. With years of experience and a commitment to

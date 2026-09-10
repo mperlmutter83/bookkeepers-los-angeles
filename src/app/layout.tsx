@@ -18,7 +18,7 @@ const ibmPlexCondensed = IBM_Plex_Sans_Condensed({
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://bookkeeperslosangeles.com"),
-  title: "Bookkeeping Service Los Angeles | The Best in Bookkeeping",
+  title: "Bookkeepers Los Angeles | The Best in Bookkeeping",
   description:
     "Streamline your finances with expert bookkeeping solutions tailored for small businesses in Los Angeles. Monthly reporting, accounts payable, payroll processing.",
 };
@@ -27,7 +27,7 @@ const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
   "@id": "https://bookkeeperslosangeles.com",
-  name: "Bookkeeping Service Los Angeles",
+  name: "Bookkeepers Los Angeles",
   url: "https://bookkeeperslosangeles.com",
   telephone: "(323) 709-8818",
   email: "info@bookkeeperslosangeles.com",

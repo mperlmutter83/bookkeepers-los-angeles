@@ -3,7 +3,7 @@ import Image from "next/image";
 import LeadForm from "@/components/LeadForm";
 
 export const metadata: Metadata = {
-  title: "Contact Us | Bookkeeping Service Los Angeles",
+  title: "Contact Us | Bookkeepers Los Angeles",
   description:
     "Schedule your free bookkeeping consultation. Call (323) 709-8818 or visit us at 355 S. Grand Ave Suite 2450, Los Angeles, CA 90071.",
 };
