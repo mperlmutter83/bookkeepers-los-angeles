@@ -52,6 +52,22 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
+        {/* RFM site data - pushed before GTM loads */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `window.dataLayer = window.dataLayer || [];
+window.dataLayer.push({
+  rfm: {
+    schema_version: "1.0",
+    site_id: "bookkeepers_los_angeles",
+    provider_id: "601a7d32-a78c-4641-937c-02d142604188",
+    provider_name: "Bookkeepers Los Angeles",
+    service_category: "bookkeeping",
+    market: "los_angeles"
+  }
+});`,
+          }}
+        />
         {/* Google Tag Manager */}
         <script
           dangerouslySetInnerHTML={{
